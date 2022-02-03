@@ -1,1 +1,2 @@
-# odin-recipes
+# Website Recipes
+My First Odin Project
